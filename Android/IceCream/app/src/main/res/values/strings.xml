@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ice Cream</string>
+    <string name="google_maps_API_key">AIzaSyDS43d0kqT3EtDyFQCspW6SiyJcssJS5bU</string>
+    <string name="truck_name">Name</string>
+    <string name="truck_phone_number">1234567890</string>
+    <string name="truck_email_address">email</string>
+
+
+</resources>
